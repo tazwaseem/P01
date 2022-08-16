@@ -1,7 +1,14 @@
 .container {
-    margin-top: 10px;
+    height: 100vh;
 }
 
 .question {
     font-size: 100px;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+}
+.para {
+    padding-left: 15px;
+
 }
